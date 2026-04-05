@@ -82,4 +82,4 @@ Este projeto está sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) par
 
 ## Autor
 
-Feito com  por **[Seu Nome](https://github.com/seu-usuario)**
+Feito com  por **Arthur Salesse Gonzaga**
